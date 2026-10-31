@@ -1,2 +1,2 @@
-# RoomCount
-Room counting app repository
+# HeadCount
+People counting app repository
